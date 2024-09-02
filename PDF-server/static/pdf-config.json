@@ -1,0 +1,84 @@
+{
+    "text_1": {
+        "type": "text",
+        "value": "The Angels of the Dream",
+        "x": 185,
+        "y": 35,
+        "fontSize": 28,
+        "color": "#9a72f8",
+        "styles": "{\"fontWeight\":\"bold\"}"
+    },
+    "text_2": {
+        "type": "text",
+        "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+        "x": 29,
+        "y": 213,
+        "fontSize": 16,
+        "color": "#000",
+        "styles": "{}",
+        "width": "720"
+    },
+    "text_3": {
+        "type": "text",
+        "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+        "x": 30,
+        "y": 300,
+        "fontSize": 16,
+        "color": "#000",
+        "styles": "{}",
+        "width": "720"
+    },
+    "text_4": {
+        "type": "text",
+        "value": "Lord of Window",
+        "x": 30,
+        "y": 175,
+        "fontSize": 18,
+        "color": "#000",
+        "styles": "{\"fontWeight\":\"bold\"}"
+    },
+    "text_5": {
+        "type": "text",
+        "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "x": 27,
+        "y": 388,
+        "fontSize": 16,
+        "color": "#000",
+        "styles": "{}",
+        "width": "720"
+    },
+    "text_6": {
+        "type": "text",
+        "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "x": 190,
+        "y": 81,
+        "fontSize": 16,
+        "color": "#000",
+        "width": "400",
+        "styles": "{}"
+    },
+    "image_1": {
+        "type": "image",
+        "src": "https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?auto=compress&fm=pjpg",
+        "x": 36,
+        "y": 721,
+        "width": "720"
+    },
+    "text_7": {
+        "type": "text",
+        "value": "Meow \ud83d\udc08 meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow  meow meow meow meow meow \ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08\ud83d\udc08 : )",
+        "x": 31,
+        "y": 538,
+        "fontSize": 16,
+        "color": "#000",
+        "width": "700",
+        "styles": "{}"
+    },
+    "image_2": {
+        "type": "image",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWpqlgnOBA6_dQk6-j4diuYVgflDwe2LsvA&s",
+        "x": 31,
+        "y": 22,
+        "width": "120"
+    }
+}

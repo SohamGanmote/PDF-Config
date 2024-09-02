@@ -1,0 +1,65 @@
+{
+    "text1": {
+        "type": "text",
+        "value": "Est. 2016",
+        "x": 19,
+        "y": 14,
+        "fontSize": 12,
+        "color": "#1A4870",
+        "styles": "{\"align\": \"left\"}"
+    },
+    "text2": {
+        "type": "text",
+        "value": "Col Code: EB-0386",
+        "x": 671,
+        "y": 16,
+        "fontSize": 12,
+        "color": "#1A4870",
+        "styles": "{\"align\": \"right\"}"
+    },
+    "text3": {
+        "type": "text",
+        "value": "||SHREE VEETARAGAYA NAMAHA||",
+        "x": 276,
+        "y": 29,
+        "fontSize": 12,
+        "color": "#000000",
+        "styles": "{\"align\": \"center\", \"font\": \"helvetica\", \"fontWeight\": \"bold\"}"
+    },
+    "text4": {
+        "type": "text",
+        "value": "Hajare Foundations",
+        "x": 307,
+        "y": 49,
+        "fontSize": 15,
+        "color": "#A02334",
+        "styles": "{\"align\": \"center\", \"font\": \"helvetica\", \"fontWeight\": \"normal\"}"
+    },
+    "text5": {
+        "type": "text",
+        "value": "PADMAVATI SCIENCE & COMMERCE PU COLLEGE, HOSUR",
+        "x": 137,
+        "y": 75,
+        "fontSize": 18,
+        "color": "#000000",
+        "styles": "{\"align\":\"center\",\"font\":\"helvetica\",\"fontWeight\":\"bold\"}"
+    },
+    "text6": {
+        "type": "text",
+        "value": "TK: RABAKAVI-BANAHATTI, DIST: BAGALKOTE, KARNATAKA-587312",
+        "x": 172,
+        "y": 104,
+        "fontSize": 13,
+        "color": "#1A4870",
+        "styles": "{\"align\": \"center\", \"font\": \"helvetica\", \"fontWeight\": \"normal\"}"
+    },
+    "text7": {
+        "type": "text",
+        "value": "Soham",
+        "x": 57,
+        "y": 172,
+        "fontSize": 13,
+        "color": "#1A4870",
+        "styles": ""
+    }
+}
